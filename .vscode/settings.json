@@ -1,0 +1,12 @@
+{
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.default.compilerPath": "D:\\IDE_DEV\\mingw64\\bin\\g++.exe",
+  "C_Cpp.default.cppStandard": "c++17",
+  "debug.onTaskErrors": "abort",
+  "files.associations": {
+    "2-10.C": "cpp",
+    "2-12.C": "cpp",
+    "2-13.C": "cpp",
+    "stdio.h": "c"
+  }
+}
