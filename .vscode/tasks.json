@@ -4,7 +4,7 @@
     {
       "type": "shell",
       "label": "g++.exe build active file",
-      "command": "D:\\IDE_DEV\\mingw64\\bin\\g++.exe",
+      "command": "E:\\IDE_DEV\\mingw64\\bin\\g++.exe",
       "args": [
         "-g",
         "-std=c++17",
@@ -37,7 +37,7 @@
       ]
     },
     "env": {
-      "Path": "D:\\IDE_DEV\\mingw64\\bin:${env:Path}"
+      "Path": "E:\\IDE_DEV\\mingw64\\bin:${env:Path}"
     }
   }
 }
