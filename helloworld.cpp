@@ -1,4 +1,3 @@
-// VS Code C++ 测试代码 "Hello World"
 // 由 VSCodeConfigHelper 生成
 
 // 您可以在当前的文件夹（您第一步输入的文件夹）下编写代码。
